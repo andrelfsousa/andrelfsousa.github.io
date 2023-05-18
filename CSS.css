@@ -1,0 +1,272 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(92, 3, 65);
+    margin: 0;
+}
+
+#Content-sect{
+    background-color: rgba(19, 0, 11, 0.616);
+    width: 1300px;
+    margin: auto;
+    border-radius: 40px;
+    padding-top: 70px;
+    padding-bottom: 110px;
+
+
+      
+
+}
+
+.hero{
+    background-image: url(img/meu\ site.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 1px solid red transparent;
+    background-size: 1250px 100%;
+    margin-top: 5px;
+    background-position: center;
+    
+    
+
+}
+.hero-cont{
+    text-align: center;
+    color: rgb(247, 5, 5);
+    margin-top: 0px;
+    
+
+}
+
+.hero-cont a{
+color: rgb(255, 255, 255);
+text-decoration: none;
+display: block;
+margin-top: 36%;
+margin-right: 80%;
+margin-left: 10%;
+border: 1px groove rgb(255, 0, 179);
+background-color: rgba(149, 4, 246, 0.425);
+letter-spacing: 2px;
+border-radius: 15px;
+font-size: 20px;
+width: 30%;
+padding-top: 20px;
+padding-bottom: 20px;
+text-transform: uppercase;
+
+
+}
+
+.hero-cont a:hover{
+    background-color: rgba(255, 0, 234, 0.774);
+}
+
+.hero nav ul {
+    text-align: right;
+    margin: 1px 100px 0 0 ;
+    
+
+}
+.hero nav li {
+    display: inline-block;
+    list-style: none;
+    border: 1px solid rgb(243, 243, 243);
+    margin-top: 40px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.hero nav a{
+    background: rgba(255, 53, 201, 0.5);
+    display: block;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+    border-radius: 10px;
+}
+
+
+.hero nav a:hover{
+background-color:rgba(255, 0, 191,0.9) ;
+
+}
+
+
+.Ulcard li {
+display: inline-block;
+margin: 5px;
+padding-right: 40px;
+padding-left: 35px;
+}
+
+
+.Ulcard a {
+    display: block;
+    text-align: center;
+    background-color: rgb(46, 0, 105);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 2px;
+    text-decoration: none;
+    color: white; 
+    
+}
+.Ulcard li a:hover{
+    background-color: rgba(255, 0, 191,0.9);
+}
+
+
+
+.Ulcard img{
+padding: 1px;
+border: 1px double black;
+
+}
+.Ulcard p{
+    background-color: red;
+    margin: 0;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    
+}
+
+
+
+main{
+    width: 99%;
+    margin: auto;
+   
+
+
+}
+
+article{
+        background-color: rgb(255, 255, 255);
+        padding: 5px;
+        margin-top: 10px;
+}
+
+article h2{
+    background-color: #ccc;
+    font-style: initial;
+    padding: 5px;
+    border-bottom: solid 5px red;
+    margin: 0;
+
+}
+#frame{
+    display: inline;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+ 
+
+}
+
+.footerp1{
+    text-align: center;
+    font-size: 15px;
+    height: 80px;
+    background-color: cadetblue;
+    text-shadow: 2px 2px 2px black;
+    line-height: 80px;
+    margin-bottom: 0px;
+
+}
+
+.bodyp2{
+    background: rgb(148, 4, 109);
+}
+.hero2{
+background-color: rgba(0, 0, 0, 0.678);
+padding-bottom: 30px;
+
+
+}
+.hero2 nav ul {
+    text-align: right;
+    margin: 1px 100px 0 0 ;
+    
+
+}
+.hero2 nav li {
+    display: inline-block;
+    list-style: none;
+    border: 1px solid rgb(243, 243, 243);
+    margin-top: 40px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.hero2 nav a{
+    background: rgba(255, 53, 201, 0.5);
+    display: block;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+    border-radius: 10px;
+}
+
+
+.hero2 nav a:hover{
+background-color:rgba(255, 0, 191,0.9) ;
+
+}
+
+
+p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+    text-align: justify;
+ 
+    
+}
+
+.mainp2{
+    background-color: rgba(10, 10, 10, 0.514);
+    width: 50%;
+    border: 2px rgb(0, 0, 0) solid;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 1% 10% 10% 10%;
+    border-radius: 20px;
+    line-height: 2;
+
+    
+    
+}
+.p2{
+padding-bottom: 80px;
+
+
+}
+
+.footerp2{
+    text-align: center;
+    font-size: 15px;
+    height: 80px;
+    background-color: cadetblue;
+    text-shadow: 2px 2px 2px black;
+    line-height: 80px;
+    margin-bottom: 0px;
+}
+
+.imgpg{
+    float: right;
+    width: 200px;
+    height: 300px;
+
+    
+
+}
